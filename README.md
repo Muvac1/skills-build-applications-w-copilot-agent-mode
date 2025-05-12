@@ -1,15 +1,8 @@
 # Build applications with GitHub Copilot agent mode
-
 <!-- ![](https://github.com/Muvac1/skills-build-applications-w-copilot-agent-mode/actions/workflows/0-start-course.yml/badge.svg?branch=main) -->
 <img src="https://github.com/user-attachments/assets/8c45e716-1d95-473b-8923-dbbbf0f924b2" alt="octofit-tracker-app" width="30%" height="30%"/>
 
-_Build an application with GitHub Copilot agent mode in less than an hour._
-
-## Welcome
-
-People love how GitHub Copilot helps them write code faster and with fewer errors.
-But what if GitHub could create a full stack application for your job role based on requirements
-written in natural language.
+_Build an application with GitHub Copilot agent mode in less than an hour._ ## Welcome People love how GitHub Copilot helps them write code faster and with fewer errors. But what if GitHub could create a full stack application for your job role based on requirements written in natural language.
 In this exercise, we will prompt GitHub Copilot agent mode to create us a complete application.
 
 - **Who is this for**: Intermediate developers familiar with GitHub Copilot, basic GitHub, and basic web development
