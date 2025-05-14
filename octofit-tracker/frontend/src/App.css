@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 50px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  flex-direction: column;
+}
+
+.App-header h1 {
+  margin: 0;
+  color: #00008b; /* Dark blue */
+}
+
+.App-logo {
+  height: 50px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Add custom styles for OctoFit Tracker */
+body {
+  background-color: #f0f8ff; /* Light blue background */
+  color: #333; /* Dark text color */
+  font-family: 'Roboto', sans-serif;
+}
+
+nav {
+  background-color: #4682b4; /* Steel blue */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0 1rem;
+}
+
+nav ul li a {
+  color: #f0f8ff; /* Light blue */
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff4500; /* Orange */
+}
+
+h1 {
+  color: #00008b; /* Dark blue */
+  margin-bottom: 1rem;
+}
+
+button {
+  background-color: #4682b4; /* Steel blue */
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #5a9bd4; /* Lighter steel blue */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+table th {
+  background-color: #4682b4; /* Steel blue */
+  color: white;
+}
+
+table tr:nth-child(even) {
+  background-color: #f0f8ff; /* Light blue */
+}
+
+table tr:hover {
+  background-color: #e0ffff; /* Light cyan */
+}
